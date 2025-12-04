@@ -1,5 +1,5 @@
 # 🧬Bioinformatics
-This project implements algorithms for sequence alignment, alignment scores and alignment paths calculation.
+**This project implements algorithms for sequence alignment, alignment scores and alignment paths calculation.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
@@ -45,17 +45,15 @@ cd Bioinformatics
 Giving an example for hmm profile:
 <img alt="hmm_profile_example_diagram" src="resources/hmm_profile_example_diagram.png" />
 
-## 🔒 Code Ownership & Usage Terms
+# 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
-Theofanis Tzoumakas (@theofanistzoumakas)
+- Theofanis Tzoumakas (@theofanistzoumakas)
+- Konstantinos Pavlis (@kpavlis)
+- Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
-Konstantinos Pavlis (@kpavlis)
-
-Michael-Panagiotis Kapetanios (@KapetaniosMP)
-
-🚫 Unauthorized use is strictly prohibited.
-No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without explicit written permission from the owners.
+**🚫 Unauthorized use is strictly prohibited.**
+No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without **explicit written permission** from the owners.
 
 For licensing inquiries or collaboration requests, please contact via email: theftzoumi _at_ gmail _dot_ com .
 
