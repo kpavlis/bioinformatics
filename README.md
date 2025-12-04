@@ -5,13 +5,13 @@
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
 ## 🚀 Features
- - 🔠 Sequence processing to construct random sequences and splitting data into two datasets.
- - ⚙️ Implementing Universal Sequence Alignment on the first dataset progressively, using the Needlman Wunsch algorithm for aligning pairs of sequences.
- - ⬇️ Saves file or 🔄️ Updates existing file with the final aligned sequences from the first dataset.
- - 🏗️ Training and construction of the hmm profile, transition table and emission table using the first dataset.
- - ⬇️ Saves file or 🔄️ Updates existing file with the hmm profile.
- - 🧮 Alignment scores and alignment paths calculation to the second dataset using the Viterbi algorithm to the trained hmm profile, transition table and emission table.
- - ⬇️ Saves file or 🔄️ Updates existing file with the final alignment scores and alignment paths from the second dataset.
+ - 🔠 Sequence processing to construct random sequences and splitting data into two datasets
+ - ⚙️ Implementing Universal Sequence Alignment on the first dataset progressively, using the Needlman Wunsch algorithm for aligning pairs of sequences
+ - ⬇️ Saves file or 🔄️ Updates existing file with the final aligned sequences from the first dataset
+ - 🏗️ Training and construction of the hmm profile, transition table and emission table using the first dataset
+ - ⬇️ Saves file or 🔄️ Updates existing file with the hmm profile
+ - 🧮 Alignment scores and alignment paths calculation to the second dataset using the Viterbi algorithm to the trained hmm profile, transition table and emission table
+ - ⬇️ Saves file or 🔄️ Updates existing file with the final alignment scores and alignment paths from the second dataset
 
 ## 🧠 Technologies Used
  - Python
