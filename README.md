@@ -27,7 +27,6 @@ This was created to explore how alignment can be done on character sequences (su
 Before running the application, make sure your environment is properly configured.
 
 - Python Version 3.9+ is recommended
-Required Libraries
 - Numpy (version 2.0.0 or newer)
 
 ## 🧪 How to Run
@@ -59,4 +58,4 @@ Any attempt to use, republish, or incorporate this code into other projects—wh
 
 For licensing inquiries or collaboration requests, please contact via email: theftzoumi _at_ gmail _dot_ com .
 
-© 2025  Theofanis Tzoumakas, Konstantinos Pavlis, Michael-Panagiotis Kapetanios. All rights reserved.
+© 2026  Theofanis Tzoumakas, Konstantinos Pavlis, Michael-Panagiotis Kapetanios. All rights reserved.
